@@ -1,1 +1,3 @@
-# Event Platform
+# Event Platform.
+
+Built by Yusuf.
