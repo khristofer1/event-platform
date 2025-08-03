@@ -1,3 +1,3 @@
 # Event Platform
 
-Built by Khristofer.
+Built by Khristofer and Yusuf.
